@@ -9,7 +9,7 @@ import requests
 import numpy as np
 
 # ====================== CONFIG ======================
-LICENSE_KEY     = os.getenv("LICENSE_KEY", "")
+LICENSE_KEY     = os.getenv("LICENSE_KEY", "EAL-NJHU-YSDF-R3RT")
 ACCOUNT_ID      = os.getenv("ACCOUNT_ID", "scalper")
 DERIV_TOKEN     = os.getenv("DERIV_TOKEN", "pat_b263937b653fa685defbe47917ae6771c25ebf64431aa3fd0a86afbf5ce94bd8")
 DERIV_APP_ID    = os.getenv("DERIV_APP_ID", "1089")
